@@ -1,7 +1,7 @@
 # String Calculator Kata
 
 ## Repository
-I found that solving repeatedly Calculator Kata helped me to setup my mind towards TDD approach. Therefore I build basic ready-to-go package for anyone who wish to grasp this topic as fast as possible.
+I found that solving String Calculator Kata every day for a few weeks helped me to setup my mind towards TDD approach. Therefore I build basic ready-to-go package for anyone who wish to grasp this topic as fast as possible.
 
 ## Kata reference
 You can find all details about kata [on this page.](http://osherove.com/tdd-kata-1/). The most important part is to follow the instruction and to NOT READ the whole description before the first approach.
