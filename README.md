@@ -13,6 +13,7 @@ You can find all details about kata [on this page.](http://osherove.com/tdd-kata
 4. Calculator class is in /app directory
 5. test is in **test** directory
 6. to run test simply execute "**php vendor/bin/phpunit**" from a root directory
+7. complete version is on **completed** branch
 
 ## Remember
 This is a kata. You should do this kata each day at least for a few weeks. Only then you will set your brain to mentally grasp TDD approach.
