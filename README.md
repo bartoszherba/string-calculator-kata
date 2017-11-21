@@ -7,7 +7,7 @@ I found that solving String Calculator Kata every day for a few weeks helped me 
 You can find all details about kata [on this page.](http://osherove.com/tdd-kata-1/). The most important part is to follow the instruction and to NOT READ the whole description before the first approach.
 
 ## Package
-1. clone this repository "**git clone git@gitlab.com:Herba/string-calculator-kata.git**"
+1. clone this repository "**https://github.com/bartoszherba/string-calculator-kata.git**"
 2. run "**cd string-calculator-kata**"
 3. run "**composer install**"
 4. Calculator class is in /app directory
